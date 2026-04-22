@@ -37,7 +37,7 @@ const dictionaries: Record<Lang, Dict> = {
     "projects.vault": "vault_cifrado — próximamente",
     "projects.p.impostor": "Lógica de un juego de rol social: votaciones, fases por rondas y gestión de estado.",
     "projects.p.rc4": "Implementación del cifrado de flujo RC4 — key scheduling, PRGA y análisis didáctico.",
-    "projects.p.emoticons": "Implementación forense de ocultación de mensajes secretos dentro de emojis usando caracteres invisibles Unicode (Zero Width Characters).",
+    "projects.p.emoticonos": "Implementación forense de ocultación de mensajes secretos dentro de emojis usando caracteres invisibles Unicode (Zero Width Characters).",
 
 
     "certs.idx": "03",
@@ -94,7 +94,7 @@ const dictionaries: Record<Lang, Dict> = {
     "projects.vault": "encrypted_vault — coming soon",
     "projects.p.impostor": "Game logic exploring deception, voting flows and round state management.",
     "projects.p.rc4": "RC4 stream cipher implementation — key scheduling, PRGA and educational analysis.",
-    "projects.p.emoticons": "Forensic implementation of secret message hiding within emojis using invisible Unicode characters (Zero Width Characters).",
+    "projects.p.emoticonos": "Forensic implementation of secret message hiding within emojis using invisible Unicode characters (Zero Width Characters).",
     "certs.idx": "03",
     "certs.title": "certifications",
     "certs.sub": "// verified credentials",
